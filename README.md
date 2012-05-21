@@ -1,3 +1,3 @@
 # Resumé: Matthew Hadley
 
-Managed on [github pages branch](https://github.com/diffsky/resume/blob/gh-pages/README.md).
+Managed on [github pages branch](https://raw.github.com/diffsky/resume/gh-pages/MatthewHadley.md).
