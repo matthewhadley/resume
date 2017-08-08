@@ -48,10 +48,11 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
         color: #191919;
         background-color: #FFFF00;
     }
-    @media screen and (device-aspect-ratio: 2/3), screen and (device-aspect-ratio: 40/71) {
+    @media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
       body {
-        font-size: 3.1em;
+        font-size: 2.7em;
         padding: 1.5em 0.5em;
+        line-height: 1.2em;
       }
       h1 {
         font-size: 2.8em;
@@ -59,7 +60,11 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
         line-height: 0.95em;
       }
       h2 {
+        font-size: 1.7em;
         margin-bottom: 0.3em;
+      }
+      h3 {
+        font-size: 1em;
       }
     }
     </style>
