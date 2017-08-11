@@ -61,10 +61,9 @@ Maintained ISO9000 standards through design, development and testing.
 
 ## Technical
 
-javascript, node.js, html, css, less, jquery, backbone, bootstrap, php, git,
-python, bash, perl, xml, mysql, mongodb, redis, vim, apache, nginx, unix, linux,
-agile (scrum, kanban, lean), vagrant, continuous integration/delivery,
-unit tests, functional tests, information architecture
+javascript, node.js, html, css, less, sass, git, python, bash, perl, xml, mysql, mongodb,
+redis, apache, nginx, unix, linux, agile (scrum, kanban, lean), vagrant, docker, vim,
+continuous integration/delivery, unit tests, functional tests, information architecture
 
 
 ## Education
