@@ -75,8 +75,7 @@ continuous integration/delivery, unit tests, functional tests, information archi
 
 ## Personal
 
-I enjoy running, playing games, photography and coding ([github.com/diffsky](https://github.com/diffsky)).
-Keen traveler to challenging and interesting destinations; such as Azerbaijan.
+I enjoy running, playing games, coding ([github.com/diffsky](https://github.com/diffsky)) and my family.
 
 
 ## Contact
