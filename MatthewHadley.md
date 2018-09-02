@@ -75,7 +75,7 @@ continuous integration/delivery, unit tests, functional tests, information archi
 
 ## Personal
 
-I enjoy running, playing games, coding ([github.com/diffsky](https://github.com/diffsky)) and my family.
+I enjoy running, playing games, coding ([github.com/matthewhadley](https://github.com/matthewhadley)) and my family.
 
 
 ## Contact
