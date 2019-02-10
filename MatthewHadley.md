@@ -7,9 +7,9 @@ of technical skills and background focusing on web development disciplines.
 
 ## Experience
 
-### 10-2015 to present, Apple
+### 10-2015 to present, Senior Engineering Manager, Apple
 
-Think different.
+Building apple.com
 
 
 ### 05-2013 to 10-2015, Engineering Lead, CreativeLive, San Francisco
